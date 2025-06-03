@@ -1,0 +1,7 @@
+{
+	"required": true,
+	"package": "slooth.lowhealth.mixin",
+	"client": [
+		"TitleScreenMixin"
+	]
+}
